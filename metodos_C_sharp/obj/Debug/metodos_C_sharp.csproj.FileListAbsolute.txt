@@ -1,0 +1,7 @@
+C:\Users\ggina\OneDrive\Área de Trabalho\metodos_C_sharp\metodos_C_sharp\bin\Debug\metodos_C_sharp.exe.config
+C:\Users\ggina\OneDrive\Área de Trabalho\metodos_C_sharp\metodos_C_sharp\bin\Debug\metodos_C_sharp.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\metodos_C_sharp\metodos_C_sharp\bin\Debug\metodos_C_sharp.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\metodos_C_sharp\metodos_C_sharp\obj\Debug\metodos_C_sharp.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\metodos_C_sharp\metodos_C_sharp\obj\Debug\metodos_C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\metodos_C_sharp\metodos_C_sharp\obj\Debug\metodos_C_sharp.exe
+C:\Users\ggina\OneDrive\Área de Trabalho\metodos_C_sharp\metodos_C_sharp\obj\Debug\metodos_C_sharp.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodos_C_sharp", "metodos_C_sharp\metodos_C_sharp.csproj", "{84DA5583-6A26-494A-84B2-009000AF3102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84DA5583-6A26-494A-84B2-009000AF3102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DA5583-6A26-494A-84B2-009000AF3102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DA5583-6A26-494A-84B2-009000AF3102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DA5583-6A26-494A-84B2-009000AF3102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FA5E3D6-A304-4FF7-BD7E-2349DFCE5EEC}
+	EndGlobalSection
+EndGlobal
